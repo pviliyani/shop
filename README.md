@@ -10,9 +10,8 @@ A Python project for managing a smartphone case store/website. This project is s
 ## � آغاز سریع | Quick Start
 
 ### ۱. کلون کردن ریپو | Clone the repository
-
 ```bash
-git clone https://github.com/USERNAME/shop.git
+git clone https://github.com/pviliyani/shop.git
 cd shop
 
 # ویندوز Windows
